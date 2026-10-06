@@ -1,7 +1,7 @@
 # 🍉 Hand Fruit Ninja
 
 > Slice emoji fruits in mid-air using your fingertip. Runs entirely in your browser — no install, no controller, no keyboard.
-
+> Demo link: https://hand-fruit-ninja-aqjc7guckappkenjzzyioh6.streamlit.app/
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-0097A7?logo=google&logoColor=white)
