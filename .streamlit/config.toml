@@ -4,3 +4,6 @@ primaryColor = "#ff4b4b"
 
 [server]
 runOnSave = true
+
+[server]
+pythonVersion = "3.11"
