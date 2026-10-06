@@ -2,8 +2,6 @@
 
 > Slice emoji fruits in mid-air using your fingertip. Runs entirely in your browser — no install, no controller, no keyboard.
 
-> Demo link: https://hand-fruit-ninja-aqjc7guckappkenjzzyioh6.streamlit.app/
-
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?logo=streamlit&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-0097A7?logo=google&logoColor=white)
@@ -34,7 +32,7 @@ No app install. No Python. No setup. Just a link and your camera.
 
 ## 🚀 Live Demo
 
-👉 **[hand-fruit-ninja.streamlit.app](https://hand-fruit-ninja.streamlit.app)** *(replace with your deployed URL)*
+👉 **[hand-fruit-ninja.streamlit.app](https://hand-fruit-ninja-aqjc7guckappkenjzzyioh6.streamlit.app/)** 
 
 Open on any device, click **START**, allow camera access, and start slicing.
 
